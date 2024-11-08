@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um script do Tampermonkey para modificar a fala gerada pelo sistema Feegow utilizado no **HOC Hospital de Olhos de Caraguatatuba**, especificamente na parte da chamada de pacientes para atendimento. O script intercepta a função de síntese de fala do navegador e altera o texto de chamadas de pacientes para a sala de exames 01, substituindo a referência a um doutor (que não está presente) por uma referência à enfermagem.
+Este é um script do Tampermonkey para modificar a fala gerada pelo sistema Feegow utilizado no **HOC Hospital de Olhos de Caraguatatuba**, especificamente na parte da chamada de pacientes para atendimento. O script intercepta a função de síntese de fala do navegador e altera o texto de chamadas de pacientes para a sala de exames 01, substituindo a referência a um doutor (que normalmente não está presente nessa sala em específico) por uma referência à enfermagem.
 
 ### Funcionalidade
 
