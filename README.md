@@ -60,6 +60,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ### Créditos
 
-Autor: **Nicolas Bonza Cavalari Borges** (você)
+Autor: **Nicolas Bonza Cavalari Borges**
 
 ---
