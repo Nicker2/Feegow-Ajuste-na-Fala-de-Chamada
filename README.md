@@ -26,7 +26,7 @@ Além disso, o script também ajusta a fala quando o texto contém apenas a refe
 
 1. Instale o Tampermonkey na sua extensão do navegador.
 2. Crie um novo script no Tampermonkey e cole o código acima.
-3. O script funcionará automaticamente quando você acessar a URL do sistema Feegow: `https://core.feegow.com/tvcall/panelV3/vvAM/*`.
+3. O script funcionará automaticamente quando você acessar a URL do sistema Feegow: `https://core.feegow.com/tvcall/panelV3/vvAM/0`.
 
 ### Exemplo de Modificação de Fala
 
